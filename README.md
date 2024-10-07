@@ -67,3 +67,16 @@ The Granite Time Series Model utilizes `TinyTimeMixer` for forecasting. Pre-trai
 
 2. **Granite Time Series Forecasting (Granite-TS-Smoke-Test.ipynb)**:
    - Use this notebook to predict future AMF handover durations using the `TinyTimeMixer` model.
+
+
+## Example Screenshots
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-1.png)
+
+![alt text](image.png)
