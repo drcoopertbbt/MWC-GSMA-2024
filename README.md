@@ -71,14 +71,23 @@ The Granite Time Series Model utilizes `TinyTimeMixer` for forecasting. Pre-trai
 
 ## Example Screenshots
 
+
+### Red Hat OpenShift AI & Jupyter Notebook Serving
 ![alt text](image-2.png)
 
+### 5G AMF UE Generation - Create Anomolies
+![alt text](image-8.png)
+
+### OpenTelemetry Metrics persist to Prometheus for data storage
 ![alt text](image-3.png)
 
-![alt text](image-6.png)
-
+### OpenTelemetry Traces cached locally as json
 ![alt text](image-7.png)
 
+### OpenTelemetry Traces viewed via 'matplotlib'
+![alt text](image-6.png)
+
+### AMF CNF Provides N2 Interface SBA data
 ![alt text](image-5.png)
 
 ![alt text](image-4.png)
