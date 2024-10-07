@@ -92,6 +92,11 @@ The Granite Time Series Model utilizes `TinyTimeMixer` for forecasting. Pre-trai
 
 ![alt text](image-4.png)
 
+### Granite Time Series Interaction with AMF CNF Metric Data "NGAP_HANDOVER_DURATION"`
+
+![alt text](image-9.png)
+![alt text](image-10.png)
+
 ![alt text](image-1.png)
 
 ![alt text](image.png)
